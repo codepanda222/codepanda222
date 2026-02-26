@@ -11,10 +11,11 @@ I’m a data-driven professional passionate about transforming complex datasets 
 Currently working as a **Business Analyst**, I specialise in:
 
 - 📈 Building KPI-driven dashboards
+- 📉 Turning raw ERP data into strategic insights
 - 🗄 Writing advanced SQL queries
 - 📊 Designing data models in Power BI
 - 🔄 Creating end-to-end ETL workflows
-- 📉 Turning raw ERP data into strategic insights
+
 
 My focus is on delivering clean, reliable, and decision-ready analytics.
 
