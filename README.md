@@ -25,16 +25,15 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 
 ### 📊 Data Visualisation
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🗄 Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ---
 
@@ -45,14 +44,6 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 - Designed revenue, backorder & vendor KPIs
 - Connected live ERP data using OData
 - Delivered executive-level insights
-
----
-
-### 📦 Retail Sales Analysis (Python + SQL)
-- Developed ETL workflow using Pandas
-- Applied advanced SQL (CTEs, Joins, Aggregations)
-- Identified seasonal and product trends
-- Visualised insights using Matplotlib
 
 ---
 
@@ -71,14 +62,6 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 ✔ SQL Optimisation  
 ✔ Data Cleaning & Transformation  
 ✔ Analytical Problem Solving  
-
----
-
-## 📈 GitHub Stats
-
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codepanda222&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codepanda222&layout=compact&theme=tokyonight)
 
 ---
 
