@@ -27,6 +27,10 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### 🏢 ERP Systems
+
+![Microsoft Dynamics 365 Business Central](https://img.shields.io/badge/Microsoft%20Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### 🗄 Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
