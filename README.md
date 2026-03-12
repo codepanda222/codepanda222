@@ -43,30 +43,31 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 
 ## 📂 Featured Projects
 
-### 📊 Sales & Vendor Analytics Dashboard
-- Built interactive Power BI dashboards
-- Designed revenue, backorder & vendor KPIs
-- Connected live ERP data using OData
-- Delivered executive-level insights
+
+### 📊 Annual Sales Performance Dashboard
+- Developed an interactive Power BI dashboard analysing **$77M+ in sales data**
+- Visualised **sales trends by month, branch, and salesperson**
+- Analysed **top customers, revenue distribution, and sales performance**
+- Connected ERP data from **Microsoft Dynamics 365 Business Central via OData**
 
 ---
 
-### 📈 Performance & Financial Analytics
-- Built forecasting dashboards
-- Automated reporting with Power Query
-- Designed clean data models using DAX
+### 🔄 Sales Pipeline & Quote Conversion Analytics
+- Built dashboards to track **open quotes, converted quotes, and quote conversion rates**
+- Analysed **sales pipeline performance by location and salesperson**
+- Identified **revenue opportunities and conversion performance trends**
+- Delivered insights to support **sales forecasting and decision-making**
 
 ---
 
 ## 📊 Core Strengths
 
-✔ Data Storytelling  
-✔ KPI Development  
-✔ Dashboard Design  
-✔ SQL Optimisation  
-✔ Data Cleaning & Transformation  
-✔ Analytical Problem Solving  
-
+✔ **Power BI Dashboard Development** – Designed interactive dashboards for sales and pipeline analytics  
+✔ **Data Storytelling** – Transformed raw ERP data into clear business insights  
+✔ **KPI Development** – Built metrics for sales trends, conversion rates, and revenue performance  
+✔ **Data Modelling** – Structured datasets from Business Central for efficient analysis  
+✔ **DAX Calculations** – Created measures for MTD/YTD sales, conversion metrics, and performance tracking  
+✔ **Business Analytics** – Identified trends in customer revenue, branch performance, and salesperson productivity
 ---
 
 ## 📫 Connect With Me
