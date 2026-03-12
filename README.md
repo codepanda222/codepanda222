@@ -42,7 +42,13 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 ---
 
 ## 📂 Featured Projects
+### 📊 Annual Sales Performance Dashboard
+[🔗 View Project](https://github.com/codepanda222/Power-BI-Dashboards)
 
+- Developed an interactive Power BI dashboard analysing **$77M+ in sales data**
+- Visualised **sales trends by month, branch, and salesperson**
+- Analysed **top customers, revenue distribution, and sales performance**
+- Connected ERP data from **Microsoft Dynamics 365 Business Central via OData**
 
 ### 📊 Annual Sales Performance Dashboard
 - Developed an interactive Power BI dashboard analysing **$77M+ in sales data**
