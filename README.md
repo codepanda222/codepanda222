@@ -62,12 +62,12 @@ My focus is on delivering clean, reliable, and decision-ready analytics.
 
 ## 📊 Core Strengths
 
-✔ Power BI Dashboard Development** – Designed interactive dashboards for sales and pipeline analytics  
-✔ Data Storytelling** – Transformed raw ERP data into clear business insights  
-✔ KPI Development** – Built metrics for sales trends, conversion rates, and revenue performance  
-✔ Data Modelling** – Structured datasets from Business Central for efficient analysis  
-✔ DAX Calculations** – Created measures for MTD/YTD sales, conversion metrics, and performance tracking  
-✔ Business Analytics** – Identified trends in customer revenue, branch performance, and salesperson productivity
+- ✔ **Power BI Dashboard Development** – Designed interactive dashboards for sales and pipeline analytics  
+- ✔ **Data Storytelling** – Transformed raw ERP data into clear business insights  
+- ✔ **KPI Development** – Built metrics for sales trends, conversion rates, and revenue performance  
+- ✔ **Data Modelling** – Structured datasets from Business Central for efficient analysis  
+- ✔ **DAX Calculations** – Created measures for MTD/YTD sales, conversion metrics, and performance tracking  
+- ✔ **Business Analytics** – Identified trends in customer revenue, branch performance, and salesperson productivity  
 ---
 
 ## 📫 Connect With Me
